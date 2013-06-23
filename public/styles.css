@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arvo', serif;
+  text-align: center;
+  color: black;
+  font-size: x-large;
+  text-align: center;
+}
+
+a {
+  text-decoration:none;
+  color: black;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  background: green;
+}
+
+.board {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.cells {
+  border: 2px solid black;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 4px;
+  display: inline-block;
+  font-size: 200%;
+  text-align: center;
+  font-family: 'Arvo', serif;
+}
